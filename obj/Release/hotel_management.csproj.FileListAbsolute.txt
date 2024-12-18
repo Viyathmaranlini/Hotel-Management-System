@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\hotel_management\hotel_management\bin\Release\hotel_management.exe.config
+C:\Users\User\source\repos\hotel_management\hotel_management\bin\Release\hotel_management.exe
+C:\Users\User\source\repos\hotel_management\hotel_management\bin\Release\hotel_management.pdb
+C:\Users\User\source\repos\hotel_management\hotel_management\obj\Release\hotel_management.FormDashboard.resources
+C:\Users\User\source\repos\hotel_management\hotel_management\obj\Release\hotel_management.FormLogIn.resources
+C:\Users\User\source\repos\hotel_management\hotel_management\obj\Release\hotel_management.Properties.Resources.resources
+C:\Users\User\source\repos\hotel_management\hotel_management\obj\Release\hotel_management.User_Control.UserControlSetting.resources
+C:\Users\User\source\repos\hotel_management\hotel_management\obj\Release\hotel_management.csproj.GenerateResource.cache
+C:\Users\User\source\repos\hotel_management\hotel_management\obj\Release\hotel_management.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\hotel_management\hotel_management\obj\Release\hotel_management.exe
+C:\Users\User\source\repos\hotel_management\hotel_management\obj\Release\hotel_management.pdb
